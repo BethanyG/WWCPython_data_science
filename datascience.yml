@@ -60,3 +60,4 @@ dependencies:
   - zeromq=4.3.1=h33f27b4_3
   - zlib=1.2.11=h62dcd97_3
 prefix: C:\Users\liliana.torres\AppData\Local\conda\conda\envs\datascience
+
