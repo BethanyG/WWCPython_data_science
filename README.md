@@ -1,3 +1,2 @@
-# WWCPython_data_science
+# THIS REPO IS ARCHIVED AND NO LONGER IN USE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BethanyG/WWCPython_data_science/master)
